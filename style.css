@@ -14,17 +14,6 @@
        color: white;
    }
 
-   nav a {
-       color: #4d0909;
-       font-weight: bold;
-       margin: 0 15px;
-       text-decoration: none;
-   }
-
-   nav a:hover {
-       color: #eee3e7;
-   }
-
    .profile-img {
        width: 160px;
        height: 160px;
@@ -72,23 +61,8 @@
        list-style: none;
    }
 
-   .download-btn {
-       margin-top: 20px;
-       display: inline-block;
-       padding: 10px 20px;
-       background-color: #00bcd4;
-       color: white;
-       text-decoration: none;
-       border-radius: 5px;
-       transition: background-color 0.3s ease;
-   }
-
    .education-list {
        animation: bounchIn 1s ease;
-   }
-
-   .download-btn:hover {
-       background-color: #70104d;
    }
 
    .address-section {
