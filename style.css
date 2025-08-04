@@ -20,8 +20,6 @@
        height: 160px;
        object-fit: cover;
        border-radius: 50%;
-       margin: 30px auto 20px;
-       animation: fadeIn 2s ease;
    }
 
    .intro {
@@ -47,7 +45,6 @@
        margin-right: 15px;
        padding: 15px;
        border-left: 5px solid #00bcd4;
-       list-style: none;
    }
 
    .address-section {
